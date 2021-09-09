@@ -20,10 +20,12 @@ education:
   - degree: MSc in Informatics
     time: 2014-2016
     university: Ionian University
+    details: 
 
   - degree: BSc in Computer Science
     time: 2010-2014
     university: Ionian University
+    details: 
 
 skills:
   - category: Backend
