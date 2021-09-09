@@ -1,10 +1,10 @@
 name: Javad Mazyar
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
+  email: 
   github: jmazyar
   linkedin: 
   phone: 
