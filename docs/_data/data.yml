@@ -1,92 +1,58 @@
-name: Javad Mazyar
-sub-name: B.Eng. Electrical Engineering and IT
-support_dark_mode: true
-fork: false
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
 
-# Sidebar
-contact:
-  email: 
-  github: jmazyar
-  linkedin: 
-  phone: 
-  gitlab: 
-  twitter: 
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
-languages:
-  - idiom: English
-  - idiom: German
-  - idiom: Persian
+    # Profile information
+    name: Javad Mazyar
+    tagline: B.Eng. Electrical Engineering and IT
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-skills:
-  - category: Programming
-    skill: 
-      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, Assembler, HTML, CSS, JavaScript, jQuery, PHP, mySql, ASP, ADO
-  - category: Technical Software
-    skill:
-      - Vector CANoe, ETAS INCA, Autodesk(CADSoft) Eagle, MATLAB/Simulink, PSPICE, ModelSim, ISE Design Suite (VHDL), IBM Doors, Beckhoff TwinCAT (PLC)
-  - category: Other Software
-    skill:
-      - MS Visual Studio, Atmel Studio, Spyder, Eclipse, IntelliJ IDEA, QT, µVision (Embedded C, Assembler), SPSS, MS Office,  Adobe Dreamweaver, CMS (Joomla, WordPress, Typo3, Drupal), Adobe Photoshop, Adobe FreeHand, Sony Sound Forge, Adobe Premier, Corel Video Studio, Docker
-  - category: Driving License
-    skill:
-      - Class B     
+    # Sidebar links
+    email: 
+    phone: 
+    website:  #do not add http://
+    linkedin: 
+    xing: 
+    github: jmazyar
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: #'@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
 
-# Profile
-profile: |
-  Embedded Systems, HiL Simulation, Testing, Programming Python, Java, C, Web/FTP/Active, Directory/Email Server under Windows und Linux, SEO, Video-, Audio- and Image Editing, Image sensors, Image processing, Computer Vision, Web Development 
+    languages:
+      - idiom: Persian
+        level: Native
 
-# Experience
-experience:
-  - role: Developer Engineer
-    time: 2020-Present
-    company: Star Electronics Göppingen
-    details: |
-      FlexConfig Restbus Simulation (CAN, FlexRay, SomeIP, AUTOSAR - Embedded C) - Tools Development (C#, Python)- Autotest Jenkins
-    technologies_used: | 
-      C, C#, Vector CANoe, Python, Jenkins
-  
-  - role: Bachelor Thesis
-    time: 2019
-    company: ZF Friedrichshafen
-    details: |
-      (Research and development ZF - Sensor Technology and Perception Systems XAAO3): Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) 
-    technologies_used: | 
-      Python, C++, SerDes, ROS, OpenCV, LVDS, GMSL2
+      - idiom: English
+        level: Professional
 
-  - role: Working Student
-    time: 2019
-    company: ZF Friedrichshafen
-    details: |
-      (Sensor Technology and Perception Systems XAAO): Software development Python & VBA – GUI design (Tk, QT) – SerDes and I2C, Bayer, YUV (CFA) – YAML, JSON – CRC 
-    technologies_used: | 
-      Python, VBA, I2C, GUI, CFA, YAML, JSON, CRC
-  
-  - role: Internship
-    time: 2018
-    company: Robert Bosch Battery Systems - Stuttgart (Feuerbach)
-    details: |
-      (Software Excellence Engineering BMS/PS): NTC simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
-    technologies_used: | 
-      C, C#, I2C, SPI, UART, ADC, Vector CANoe, VISA and IVI
-  
-  - role: VHDL Project
-    time: 2017
-    company:  
-    details: |
-      Dr.-Ing., Professor Walter Ludescher - Hochschule Ravensburg-Weingarten
-      (Speed measurement with a light sensor: Frequency generator, debouncing, counter, binary ASCI convertor, multiplexer, UART-transmission, Test-bench) (Xilinx FPGA-programming) 
-    technologies_used:
-      
+      - idiom: German
+        level: Basic
 
-  - role: Electronic Production Technology Training
-    time: 2016
-    company: RAFI GmbH & Co. KG, Training Center 
-    details:
+    interests:
+      - item: Climbing
+        link:
 
-    technologies_used:
-       
+      - item: Snowboarding
+        link:
 
+      - item: Cooking
+        link:
 
+career-profile:
+    title: Profile
+    summary: |
+      Embedded Systems, HiL Simulation, Testing, Programming Python, Java, C, 
+      Web/FTP/Active, Directory/Email Server under Windows und Linux, SEO, Web Development
+      Video-, Audio- and Image Editing, Image sensors, Image processing, Computer Vision
 
 # Education
 education:
@@ -110,35 +76,154 @@ education:
     university: Ja’far Sadiq High School
     details: Iran
 
+# Experience
+experience:
+  - role: Developer Engineer
+    time: 2020-Present
+    company: Star Electronics Göppingen
+    details: |
+      FlexConfig Restbus Simulation (CAN, FlexRay, SomeIP, AUTOSAR - Embedded C) - Tools Development (C#, Python)- Autotest Jenkins
+    technologies: | 
+      C, C#, Vector CANoe, Python, Jenkins
+  
+  - role: Bachelor Thesis
+    time: 2019
+    company: ZF Friedrichshafen
+    details: |
+      (Research and development ZF - Sensor Technology and Perception Systems XAAO3): Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) 
+    technologies: | 
+      Python, C++, SerDes, ROS, OpenCV, LVDS, GMSL2
 
+  - role: Working Student
+    time: 2019
+    company: ZF Friedrichshafen
+    details: |
+      (Sensor Technology and Perception Systems XAAO): Software development Python & VBA – GUI design (Tk, QT) – SerDes and I2C, Bayer, YUV (CFA) – YAML, JSON – CRC 
+    technologies: | 
+      Python, VBA, I2C, GUI, CFA, YAML, JSON, CRC
+  
+  - role: Internship
+    time: 2018
+    company: Robert Bosch Battery Systems - Stuttgart (Feuerbach)
+    details: |
+      (Software Excellence Engineering BMS/PS): NTC simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
+    technologies: | 
+      C, C#, I2C, SPI, UART, ADC, Vector CANoe, VISA and IVI
+  
+  - role: VHDL Project
+    time: 2017
+    company:  
+    details: |
+      Dr.-Ing., Professor Walter Ludescher - Hochschule Ravensburg-Weingarten
+      (Speed measurement with a light sensor: Frequency generator, debouncing, counter, binary ASCI convertor, multiplexer, UART-transmission, Test-bench) (Xilinx FPGA-programming) 
+    technologies:
+      
 
-# publications:
-#   - title: Random title of paper. An interesting one.
-#     link: "#"
-#     authors: John E. Doe
-#     conference: Some conference, 2016
+  - role: Electronic Production Technology Training
+    time: 2016
+    company: RAFI GmbH & Co. KG, Training Center 
+    details:
 
-#   - title: Second title of paper. An interesting one too.
-#     link: "#"
-#     authors: John E. Doe
-#     conference: Some conference again, 2018
+    technologies:
+       
+
+    # - role: UI Developer
+    #   time: 2012 - 2014
+    #   company: Amazon, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
+
 
 # projects:
-#   - title: Cool Project 
-#     link: #
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua.
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-#   - title: Cool Project 
-#     link: #
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua.
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-# # Volunteering
-# volunteering:
-#   - time:
-#     role:
-#     company:
-#     details:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+# skills:
+#   - category: Programming
+#     skill: 
+#       - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, Assembler, HTML, CSS, JavaScript, jQuery, PHP, mySql, ASP, ADO
+#   - category: Technical Software
+#     skill:
+#       - Vector CANoe, ETAS INCA, Autodesk(CADSoft) Eagle, MATLAB/Simulink, PSPICE, ModelSim, ISE Design Suite (VHDL), IBM Doors, Beckhoff TwinCAT (PLC)
+#   - category: Other Software
+#     skill:
+#       - MS Visual Studio, Atmel Studio, Spyder, Eclipse, IntelliJ IDEA, QT, µVision (Embedded C, Assembler), SPSS, MS Office,  Adobe Dreamweaver, CMS (Joomla, WordPress, Typo3, Drupal), Adobe Photoshop, Adobe FreeHand, Sony Sound Forge, Adobe Premier, Corel Video Studio, Docker
+#   - category: Driving License
+#     skill:
+#       - Class B     
+
+footer: >
+    Resume <i class="fas fa-heart"></i> by <a href="https://jmazyar.github.io/" target="_parent" rel="nofollow">Javad Mazyar</a>
