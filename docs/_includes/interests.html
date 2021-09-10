@@ -24,12 +24,18 @@
 <!--//skills side-->
 {% assign skills_side = site.data.data.skills_side %}
 {% if skills_side %}
-<section class="skills_side">
-    {% for sks in skills_side %}
-        <div class="title">{{sks.category}} skills</div>
-        {% for sk in sks.skill%}
-            <div class="skill">{{sk}}</div>
-        {% endfor %}
-    {% endfor %}
-</section>
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    Skills
+  </h2>
+  <ul class="skills_side">
+      {% for sks in skills_side %}
+          <li class="title">{{sks.category}}:
+          {% for sk in sks.skill%}
+              <span class="lang-desc">{{sk}}</span>
+          {% endfor %}
+          </li>
+      {% endfor %}
+  </ul>
 {% endif %}
