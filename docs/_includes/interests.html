@@ -24,14 +24,14 @@
 <!--//skills side-->
 {% assign skills_side = site.data.data.skills_side %}
 {% if skills_side %}
-<div class="interests-container container-block">
+<div class="languages-container container-block">
 
   <h2 class="container-block-title">
     Skills
   </h2>
-  <ul class="skills_side">
+  <ul class="list-unstyled interests-list">
       {% for sks in skills_side %}
-          <li class="title">{{sks.category}}:
+          <li class="title">{{sks.category}}:<br>
           {% for sk in sks.skill%}
               <span class="lang-desc">{{sk}}</span>
           {% endfor %}
@@ -39,3 +39,4 @@
       {% endfor %}
   </ul>
 {% endif %}
+</div>
