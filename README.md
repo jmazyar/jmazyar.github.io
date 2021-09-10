@@ -1,3 +1,5 @@
 # jmazyar.github.io
-Javad Mazyar Resume
+
+Javad Mazyar *Resume*
+
 <https://jmazyar.github.io/>

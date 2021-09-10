@@ -8,13 +8,18 @@
 {% include head.html %}
 
 <body>
-  <div class="wrapper">
-    {% include sidebar.html %}
+  
+  <div class="profile-container">
 
-    <div class="main-wrapper">
-        {{ content }}
-    </div>
-  </div>
+    {% if sidebar.name %}
+    <h1 class="name">{{ sidebar.name }}</h1>
+    {% endif %}
+
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    {% endif %}
+
+  </div><!--//top-profile-container-->    
 
   {% include footer.html %}
 
