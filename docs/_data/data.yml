@@ -1,5 +1,5 @@
 name: Javad Mazyar
-sub-name: test
+sub-name: B.Eng. Electrical Engineering and IT
 support_dark_mode: true
 fork: false
 
@@ -34,8 +34,7 @@ skills:
 # Profile
 profile: |
 Embedded Systems, HiL Simulation, Testing, Programming Python, Java, C, Web/FTP/Active, Directory/Email Server under Windows und Linux, SEO, Video-, 
-Audio- and Image Editing, Image sensors, Image processing, Web Development
-
+Audio- and Image Editing, Image sensors, Image processing, Computer Vision, Web Development
 
 # Experience
 experience:
@@ -43,25 +42,49 @@ experience:
     time: 2020-Present
     company: Star Electronics Göppingen
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      FlexConfig Restbus Simulation (CAN, FlexRay, SomeIP, AUTOSAR - Embedded C) - Tools Development (C#, Python)- Autotest Jenkins
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      C, C#, Vector CANoe, Python, Jenkins
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Bachelor Thesis
+    time: 2019
+    company: ZF Friedrichshafen
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      (Research and development ZF - Sensor Technology and Perception Systems XAAO3): Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) 
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Python, C++, SerDes, ROS, OpenCV, LVDS, GMSL2
+
+  - role: Working Student
+    time: 2019
+    company: ZF Friedrichshafen
+    details: |
+      (Sensor Technology and Perception Systems XAAO): Software development Python & VBA – GUI design (Tk, QT) – SerDes and I2C, Bayer, YUV (CFA) – YAML, JSON – CRC 
+    technologies_used: | 
+      Python, VBA, I2C, GUI, CFA, YAML, JSON, CRC
+  
+  - role: Internship
+    time: 2018
+    company: Robert Bosch Battery Systems - Stuttgart (Feuerbach)
+    details: |
+      (Software Excellence Engineering BMS/PS): NTC simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
+    technologies_used: | 
+      C, C#, I2C, SPI, UART, ADC, Vector CANoe, VISA and IVI
+  
+  - role: VHDL Project
+    time: 2017
+    company:  
+    details: |
+      Dr.-Ing., Professor Walter Ludescher - Hochschule Ravensburg-Weingarten
+    # technologies_used: | 
+      (Speed measurement with a light sensor: Frequency generator, debouncing, counter, binary ASCI convertor, multiplexer, UART-transmission, Test-bench) (Xilinx FPGA-programming) 
+
+  - role: Electronic Production Technology Training
+    time: 2016
+    company: RAFI GmbH & Co. KG, Training Center 
+    # details: |
+       
+    # technologies_used: | 
+       
 
 # Education
 education:
