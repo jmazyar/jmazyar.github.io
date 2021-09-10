@@ -79,7 +79,7 @@ education:
 
 # Experience
 experiences:
-  - role: Developer Engineer
+  - role: Software Developer
     time: 2020-Present
     company: Star Electronics Göppingen
     details: |
@@ -227,4 +227,4 @@ skills_side:
       - Class B     
 
 footer: >
-    &copy; <a href="https://jmazyar.github.io/" target="_parent" rel="nofollow">Javad Mazyar <i class="fas fa-heart"></i></a>
+    <p>&copy; <a href="https://jmazyar.github.io/" target="_parent" rel="nofollow">Javad Mazyar <i class="fas fa-heart"></i></a></p>
