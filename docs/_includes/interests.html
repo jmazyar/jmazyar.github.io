@@ -20,3 +20,16 @@
 
 </div><!--//interests-->
 {% endif %}
+
+<!--//skills side-->
+{% assign skills_side = site.data.data.skills_side %}
+{% if skills_side %}
+<section class="skills_side">
+    {% for sks in skills_side %}
+        <div class="title">{{sks.category}} skills</div>
+        {% for sk in sks.skill%}
+            <div class="skill">{{sk}}</div>
+        {% endfor %}
+    {% endfor %}
+</section>
+{% endif %}
