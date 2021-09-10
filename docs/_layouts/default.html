@@ -10,14 +10,16 @@
 <body>
   <div class="wrapper">
 
-    {% include headbar.html %}
-
+    {% unless sidebar.profile %}
+      {% include headbar.html %}
+    {% endunless %}
+    
     {% include sidebar.html %}
 
     <div class="main-wrapper">
         {{ content }}
     </div>
-    
+
   </div>
 
   {% include footer.html %}
