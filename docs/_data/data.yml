@@ -1,4 +1,5 @@
 name: Javad Mazyar
+sub-name: test
 support_dark_mode: true
 fork: false
 
@@ -16,60 +17,31 @@ languages:
   - idiom: German
   - idiom: Persian
 
-education:
-  - degree: B.Eng. Electrical Engineering and IT
-    time: 2016-2020
-    university: Ravensburg-Weingarten University of Applied Sciences
-    details: Germany-Weingatren
-
-  - degree: M.A. Teaching English as a Foreign Language
-    time: 2007–2010
-    university: I. Azad University (Tabriz)
-    details: Iran-Tabriz
-
-  - degree: B.A. English Language and Literature
-    time: 2003–2007
-    university: Ilam University
-    details: Iran-Ilam
-
-  - degree: Diploma Mathematics and Physics
-    time: 1999–2003
-    university: Ja’far Sadiq High School
-    details: Iran
-
 skills:
   - category: Programming
     skill: 
       - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, Assembler, HTML, CSS, JavaScript, jQuery, PHP, mySql, ASP, ADO
   - category: Technical Software
     skill:
-      - React
-      - Typescript
+      - Vector CANoe, ETAS INCA, Autodesk(CADSoft) Eagle, MATLAB/Simulink, PSPICE, ModelSim, ISE Design Suite (VHDL), IBM Doors, Beckhoff TwinCAT (PLC)
   - category: Other Software
     skill:
-      - Docker
-      - Kubernetes 
-  - category: Web Development
-    skill:
-      - Docker
-      - Kubernetes 
+      - MS Visual Studio, Atmel Studio, Spyder, Eclipse, IntelliJ IDEA, QT, µVision (Embedded C, Assembler), SPSS, MS Office,  Adobe Dreamweaver, CMS (Joomla, WordPress, Typo3, Drupal), Adobe Photoshop, Adobe FreeHand, Sony Sound Forge, Adobe Premier, Corel Video Studio, Docker
   - category: Driving License
     skill:
       - Class B     
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+Embedded Systems, HiL Simulation, Testing, Programming Python, Java, C, Web/FTP/Active, Directory/Email Server under Windows und Linux, SEO, Video-, 
+Audio- and Image Editing, Image sensors, Image processing, Web Development
+
 
 # Experience
 experience:
-  - role: Software Engineer
+  - role: Developer Engineer
     time: 2020-Present
-    company: Google
+    company: Star Electronics Göppingen
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -91,33 +63,55 @@ experience:
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+# Education
+education:
+  - degree: B.Eng. Electrical Engineering and IT
+    time: 2016-2020
+    university: Ravensburg-Weingarten University of Applied Sciences
+    details: Germany-Weingatren
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - degree: M.A. Teaching English as a Foreign Language
+    time: 2007–2010
+    university: I. Azad University (Tabriz)
+    details: Iran-Tabriz
 
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  - degree: B.A. English Language and Literature
+    time: 2003–2007
+    university: Ilam University
+    details: Iran-Ilam
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  - degree: Diploma Mathematics and Physics
+    time: 1999–2003
+    university: Ja’far Sadiq High School
+    details: Iran
 
-# Volunteering
-volunteering:
-  - time:
-    role:
-    company:
-    details:
+# publications:
+#   - title: Random title of paper. An interesting one.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference, 2016
+
+#   - title: Second title of paper. An interesting one too.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference again, 2018
+
+# projects:
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
+
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
+
+# # Volunteering
+# volunteering:
+#   - time:
+#     role:
+#     company:
+#     details:
