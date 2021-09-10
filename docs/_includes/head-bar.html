@@ -1,6 +1,6 @@
 {% assign sidebar = site.data.data.sidebar %}
 {% unless sidebar.profile %}
-<div class="head-profile-container">
+<span class="head-profile-container">
   
     {% if sidebar.name %}
     <h1 class="name">{{ sidebar.name }}</h1>
@@ -10,5 +10,5 @@
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
 
-</div><!--//top-profile-container--> 
+</span><!--//top-profile-container--> 
 {% endunless %}
