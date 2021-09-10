@@ -55,7 +55,7 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum 
+  Embedded Systems, HiL Simulation, Testing, Programming Python, Java, C, Web/FTP/Active, Directory/Email Server under Windows und Linux, SEO, Video-, Audio- and Image Editing, Image sensors, Image processing, Computer Vision, Web Development 
 
 # Experience
 experience:
@@ -96,14 +96,15 @@ experience:
     company:  
     details: |
       Dr.-Ing., Professor Walter Ludescher - Hochschule Ravensburg-Weingarten
-    technologies_used: | 
       (Speed measurement with a light sensor: Frequency generator, debouncing, counter, binary ASCI convertor, multiplexer, UART-transmission, Test-bench) (Xilinx FPGA-programming) 
+    technologies_used: | 
+      
 
   - role: Electronic Production Technology Training
     time: 2016
     company: RAFI GmbH & Co. KG, Training Center 
     details: |
-       
+
     technologies_used: | 
        
 
