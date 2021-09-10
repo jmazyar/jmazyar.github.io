@@ -96,15 +96,15 @@ experience:
     company:  
     details: |
       Dr.-Ing., Professor Walter Ludescher - Hochschule Ravensburg-Weingarten
-    # technologies_used: | 
+    technologies_used: | 
       (Speed measurement with a light sensor: Frequency generator, debouncing, counter, binary ASCI convertor, multiplexer, UART-transmission, Test-bench) (Xilinx FPGA-programming) 
 
   - role: Electronic Production Technology Training
     time: 2016
     company: RAFI GmbH & Co. KG, Training Center 
-    # details: |
+    details: |
        
-    # technologies_used: | 
+    technologies_used: | 
        
 
 # publications:
