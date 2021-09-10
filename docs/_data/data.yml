@@ -17,15 +17,25 @@ languages:
   - idiom: Persian
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-    details: 
+  - degree: B.Eng. Electrical Engineering and IT
+    time: 2016-2020
+    university: Ravensburg-Weingarten University of Applied Sciences
+    details: Germany-Weingatren
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-    details: 
+  - degree: M.A. Teaching English as a Foreign Language
+    time: 2007–2010
+    university: I. Azad University (Tabriz)
+    details: Iran-Tabriz
+
+  - degree: B.A. English Language and Literature
+    time: 2003–2007
+    university: Ilam University
+    details: Iran-Ilam
+
+  - degree: Diploma Mathematics and Physics
+    time: 1999–2003
+    university: Ja’far Sadiq High School
+    details: Iran
 
 skills:
   - category: Backend
@@ -101,10 +111,7 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  - time: 
+    role: 
+    company: 
+    details:
