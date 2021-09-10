@@ -38,18 +38,24 @@ education:
     details: Iran
 
 skills:
-  - category: Backend
+  - category: Programming
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, Assembler, HTML, CSS, JavaScript, jQuery, PHP, mySql, ASP, ADO
+  - category: Technical Software
     skill:
       - React
       - Typescript
-  - category: DevOps
+  - category: Other Software
     skill:
       - Docker
       - Kubernetes 
+  - category: Web Development
+    skill:
+      - Docker
+      - Kubernetes 
+  - category: Driving License
+    skill:
+      - Class B     
 
 # Profile
 profile: |
@@ -111,7 +117,7 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 
-    role: 
-    company: 
+  - time:
+    role:
+    company:
     details:
