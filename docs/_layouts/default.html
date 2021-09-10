@@ -8,8 +8,8 @@
 {% include head.html %}
 
 <body>
-  
-  <div class="profile-container">
+
+  <div class="wrapper profile-container">
 
     {% if sidebar.name %}
     <h1 class="name">{{ sidebar.name }}</h1>
@@ -20,6 +20,14 @@
     {% endif %}
 
   </div><!--//top-profile-container-->    
+  
+  <div class="wrapper">
+    {% include sidebar.html %}
+
+    <div class="main-wrapper">
+        {{ content }}
+    </div>
+  </div>
 
   {% include footer.html %}
 
