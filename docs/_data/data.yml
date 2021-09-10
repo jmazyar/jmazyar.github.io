@@ -17,6 +17,28 @@ languages:
   - idiom: German
   - idiom: Persian
 
+# Education
+education:
+  - degree: B.Eng. Electrical Engineering and IT
+    time: 2016-2020
+    university: Ravensburg-Weingarten University of Applied Sciences
+    details: Germany-Weingatren
+
+  - degree: M.A. Teaching English as a Foreign Language
+    time: 2007–2010
+    university: I. Azad University (Tabriz)
+    details: Iran-Tabriz
+
+  - degree: B.A. English Language and Literature
+    time: 2003–2007
+    university: Ilam University
+    details: Iran-Ilam
+
+  - degree: Diploma Mathematics and Physics
+    time: 1999–2003
+    university: Ja’far Sadiq High School
+    details: Iran
+    
 skills:
   - category: Programming
     skill: 
@@ -84,28 +106,6 @@ experience:
        
     # technologies_used: | 
        
-
-# Education
-education:
-  - degree: B.Eng. Electrical Engineering and IT
-    time: 2016-2020
-    university: Ravensburg-Weingarten University of Applied Sciences
-    details: Germany-Weingatren
-
-  - degree: M.A. Teaching English as a Foreign Language
-    time: 2007–2010
-    university: I. Azad University (Tabriz)
-    details: Iran-Tabriz
-
-  - degree: B.A. English Language and Literature
-    time: 2003–2007
-    university: Ilam University
-    details: Iran-Ilam
-
-  - degree: Diploma Mathematics and Physics
-    time: 1999–2003
-    university: Ja’far Sadiq High School
-    details: Iran
 
 # publications:
 #   - title: Random title of paper. An interesting one.
