@@ -8,12 +8,11 @@
 {% include head.html %}
 
 <body>
+
+  {% include head-bar.html %}
+    
   <div class="wrapper">
 
-    {% unless sidebar.profile %}
-      {% include headbar.html %}
-    {% endunless %}
-    
     {% include sidebar.html %}
 
     <div class="main-wrapper">
