@@ -1,5 +1,5 @@
 {% assign sidebar = site.data.data.sidebar %}
-{% if not sidebar.profile %}
+{% unless sidebar.profile %}
 <header class="head-profile-container">
   
     {% if sidebar.name %}
@@ -11,4 +11,4 @@
     {% endif %}
 
 </header><!--//top-profile-container--> 
-{% endif %}
+{% endunless %}
