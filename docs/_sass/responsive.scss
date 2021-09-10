@@ -28,11 +28,8 @@
         .title {
             margin:0 auto;
         }
-        .sub-name {
-            @include sub-header;
-        }        
         input, label {
             display: none;
         }
-    }
+    }     
 }
