@@ -2,6 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
+# Profile information
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
@@ -51,9 +52,9 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Embedded Systems, HiL Simulation, Testing, Programming Python, Java, C, 
-      Web/FTP/Active, Directory/Email Server under Windows und Linux, SEO, Web Development, 
-      Video-, Audio- and Image Editing, Image sensors, Image processing, Computer Vision
+      Testing and Automation, HiL Simulation, Embedded Programming, Programming (Python, C, C#),  
+      Web/FTP/Active Directory Server under Windows und Linux, ROS, Web Development, 
+      Computer Vision, Image Sensors, Image Processing
 
 # Education
 education:
@@ -212,6 +213,7 @@ experiences:
 #       - name: Sketch & Photoshop
 #         level: 60%
 
+# Skills sidebar
 skills_side:
   - category: Programming
     skill: 
@@ -226,5 +228,6 @@ skills_side:
     skill:
       - Class B     
 
+# Footer
 footer: >
     &copy; <a href="https://jmazyar.github.io/" target="_parent" rel="nofollow">Javad Mazyar <i class="fas fa-heart"></i></a>
