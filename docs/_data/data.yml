@@ -217,7 +217,7 @@ experiences:
 skills_side:
   - category: Programming
     skill: 
-      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, Assembler, HTML, CSS, JavaScript, jQuery, PHP, mySql, ASP, ADO
+      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, Assembler, HTML, CSS, JavaScript, AJAX, PHP, mySql, ASP, ADO
   - category: Technical Software
     skill:
       - Vector CANoe, ETAS INCA, Autodesk(CADSoft) Eagle, MATLAB/Simulink, PSPICE, ModelSim, ISE Design Suite (VHDL), IBM Doors, Beckhoff TwinCAT (PLC)
