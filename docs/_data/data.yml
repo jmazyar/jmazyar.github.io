@@ -82,7 +82,7 @@ education:
 experiences:
   - role: Software Developer
     time: 2020-Present
-    company: Star Electronics Göppingen
+    company: Star Electronics - Göppingen
     details: |
       FlexConfig Restbus Simulation (CAN, FlexRay, SomeIP, AUTOSAR - Embedded C) - Tools Development (C#, Python)- Autotest Jenkins
     technologies: | 
@@ -90,7 +90,7 @@ experiences:
   
   - role: Bachelor Thesis
     time: 2019
-    company: ZF Friedrichshafen
+    company: ZF - Friedrichshafen
     details: |
       (Research and development ZF - Sensor Technology and Perception Systems XAAO3): Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) 
     technologies: | 
@@ -98,7 +98,7 @@ experiences:
 
   - role: Working Student
     time: 2019
-    company: ZF Friedrichshafen
+    company: ZF - Friedrichshafen
     details: |
       (Sensor Technology and Perception Systems XAAO): Software development Python & VBA – GUI design (Tk, QT) – SerDes and I2C, Bayer, YUV (CFA) – YAML, JSON – CRC 
     technologies: | 
@@ -106,7 +106,7 @@ experiences:
   
   - role: Internship
     time: 2018
-    company: Robert Bosch Battery Systems - Stuttgart (Feuerbach)
+    company: Robert Bosch - Stuttgart
     details: |
       (Software Excellence Engineering BMS/PS): NTC simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
     technologies: | 
