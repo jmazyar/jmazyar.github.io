@@ -84,7 +84,7 @@ experiences:
     time: 2020-Present
     company: Star Electronics - Göppingen
     details: |
-      FlexConfig Restbus Simulation (CAN, FlexRay, SomeIP, AUTOSAR - Embedded C) - Tools Development (C#, Python)- Autotest Jenkins
+      FlexConfig Restbus Simulation (CAN, FlexRay, SomeIP, AUTOSAR - Embedded C) - Tools Development (C#, Python)- Autotest Jenkins - PREEvision Hardware Development
     technologies: | 
       C, C#, Vector CANoe, Python, Jenkins
   
