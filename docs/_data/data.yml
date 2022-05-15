@@ -59,22 +59,22 @@ career-profile:
 # Education
 education:
   - degree: B.Eng. Electrical Engineering and IT
-    time: 2016–2020
+    time: 2016-2020
     university: Ravensburg-Weingarten University of Applied Sciences
     details: Germany-Weingatren
 
   - degree: M.A. Teaching English as a Foreign Language
-    time: 2007–2010
+    time: 2007-2010
     university: I. Azad University (Tabriz)
     details: Iran-Tabriz
 
   - degree: B.A. English Language and Literature
-    time: 2003–2007
+    time: 2003-2007
     university: Ilam University
     details: Iran-Ilam
 
   - degree: Diploma Mathematics and Physics
-    time: 1999–2003
+    time: 1999-2003
     university: Ja’far Sadiq High School
     details: Iran
 
@@ -84,7 +84,7 @@ experiences:
     time: 2020-Present
     company: Star Electronics - Göppingen
     details: |
-      FlexConfig Restbus Simulation (CAN, FlexRay, SomeIP, AUTOSAR - Embedded C) - Tools Development (C#, Python)- Autotest Jenkins - PREEvision Hardware Development
+      FlexConfig Restbus Simulation (CAN, FlexRay, SOME/IP, AUTOSAR - Embedded C) - Tools Development (C#, Python) - Test automation Jenkins and CANoe - PREEvision Hardware Development
     technologies: | 
       C, C#, Vector CANoe, Python, Jenkins, PREEvision
   
@@ -100,7 +100,7 @@ experiences:
     time: 2019
     company: ZF - Friedrichshafen
     details: |
-      (Sensor Technology and Perception Systems XAAO): Software development Python & VBA – GUI design (Tk, QT) – SerDes and I2C, Bayer, YUV (CFA) – YAML, JSON – CRC 
+      (Sensor Technology and Perception Systems XAAO): Software development Python & VBA - GUI design (Tk, QT) - SerDes and I2C, Bayer, YUV (CFA) - YAML, JSON - CRC 
     technologies: | 
       Python, VBA, I2C, GUI, CFA, YAML, JSON, CRC
   
@@ -217,13 +217,13 @@ experiences:
 skills_side:
   - category: Programming
     skill: 
-      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, Assembler, HTML, CSS, JavaScript, AJAX, PHP, mySql, ASP, ADO
+      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, HTML, CSS, JavaScript, PHP, mySql, ASP
   - category: Technical Software
     skill:
-      - Vector CANoe, ETAS INCA, Autodesk(CADSoft) Eagle, MATLAB/Simulink, PSPICE, ModelSim, ISE Design Suite (VHDL), IBM Doors, Beckhoff TwinCAT (PLC)
+      - Vector CANoe, Vector PREEvision, ETAS INCA, Autodesk(CADSoft) Eagle, MATLAB/Simulink, PSPICE, ModelSim, ISE Design Suite (VHDL), IBM Doors, Beckhoff TwinCAT (PLC)
   - category: Other Software
     skill:
-      - MS Visual Studio, Atmel Studio, Spyder, Eclipse, IntelliJ IDEA, QT, µVision (Embedded C, Assembler), SPSS, MS Office,  Adobe Dreamweaver, CMS (Joomla, WordPress, Typo3, Drupal), Adobe Photoshop, Adobe FreeHand, Sony Sound Forge, Adobe Premier, Corel Video Studio, Docker
+      - MS Visual Studio, Atmel Studio, Spyder, Eclipse, IntelliJ IDEA, QT, µVision (Embedded C, Assembler), SPSS, MS Office,  Adobe Dreamweaver, CMS (Joomla, WordPress, Typo3, Drupal), Adobe Photoshop, Adobe FreeHand, Sony Sound Forge, Adobe Premier, Corel Video Studio, Docker
   - category: Driving License
     skill:
       - Class B     
