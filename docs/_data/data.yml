@@ -37,7 +37,7 @@ sidebar:
         level: Professional
 
       - idiom: German
-        level: Basic
+        level: Good
 
     # interests:
     #   - item: Climbing
@@ -84,7 +84,7 @@ experiences:
     time: 2020-Present
     company: Star Electronics - Göppingen
     details: |
-      FlexConfig Restbus Simulation (CAN, FlexRay, SOME/IP, AUTOSAR - Embedded C) - Tools Development (C#, Python) - Test automation Jenkins and CANoe - PREEvision Hardware Development
+      FlexConfig Restbus Simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools Development (C#, Python, AUTOSAR DB, Embedded C) - Test automation Jenkins and CANoe - PREEvision Hardware Development (Java)
     technologies: | 
       C, C#, Vector CANoe, Python, Jenkins, PREEvision
   
@@ -191,15 +191,15 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-# skills:
-#     title: Skills &amp; Proficiency
+ skills:
+     title: Programming Skills &amp; Proficiency
 
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
+     toolset:
+       - name: Python
+         level: 98%
 
-#       - name: Javascript & jQuery
-#         level: 98%
+       - name: Javascript & Html & CSS
+         level: 85%
 
 #       - name: Angular
 #         level: 98%
