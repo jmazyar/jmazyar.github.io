@@ -191,24 +191,24 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
- skills:
-     title: Programming Skills &amp; Proficiency
+skills:
+    title: Programming Skills &amp; Proficiency
 
-     toolset:
-       - name: Python
-         level: 98%
+    toolset:
+      - name: Python
+        level: 98%
 
-       - name: Javascript & Html & CSS
-         level: 85%
+      - name: Javascript
+        level: 85%
 
-#       - name: Angular
-#         level: 98%
+      - name: C
+        level: 90%
 
-#       - name: HTML5 & CSS
-#         level: 95%
+      - name: HTML5 & CSS
+        level: 75%
 
-#       - name: Ruby on Rails
-#         level: 85%
+      - name: Java & C#
+        level: 65%
 
 #       - name: Sketch & Photoshop
 #         level: 60%
