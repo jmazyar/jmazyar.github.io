@@ -154,7 +154,7 @@ projects:
       List of certificates
     assignments:
       - title: PREEvision Application Engineer
-        link: "#2024"
+        link: 2024
         tagline: "Vector Informatik"
 
       - title: PREEvision Hardware Development
