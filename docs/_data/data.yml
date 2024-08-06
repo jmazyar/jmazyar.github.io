@@ -154,10 +154,10 @@ projects:
         
     assignments:
       - title: PREEvision Application Engineer
-        link: "#"
+        # link: "#"
         tagline: "Vector Informatik (2024)" 
 
-      - title: •	Intercultural Competencies
+      - title: Intercultural Competencies
         link: "#"
         tagline: "University of Applied Sciences Ludwigsburg (2022)" 
 
