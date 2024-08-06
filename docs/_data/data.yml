@@ -150,19 +150,19 @@ experiences:
 
 projects:
     title: Certificates
-    # intro: >
+    intro: >
       # List of certificates
     assignments:
       - title: PREEvision Application Engineer
-        # link: 2024
-        tagline: "Vector Informatik"
+        link: "#"
+        tagline: "Vector Informatik" 2024
 
       - title: PREEvision Hardware Development
-        # link: 
+        link: "#"
         tagline: "Vector Informatik" 2021
 
       - title: Electronic Production Technology Training
-        # link: 
+        link: "#"
         tagline: "RAFI GmbH & Co. KG, Training Center" 2016
 
 # projects:
