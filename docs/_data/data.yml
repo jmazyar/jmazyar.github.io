@@ -151,19 +151,24 @@ experiences:
 projects:
     title: Certificates
     intro: >
-      # List of certificates
+        
     assignments:
       - title: PREEvision Application Engineer
         link: "#"
-        tagline: "Vector Informatik" 2024
+        tagline: "Vector Informatik (2024)" 
+
+      - title: •	Intercultural Competencies
+        link: "#"
+        tagline: "University of Applied Sciences Ludwigsburg (2022)" 
 
       - title: PREEvision Hardware Development
         link: "#"
-        tagline: "Vector Informatik" 2021
+        tagline: "Vector Informatik (2021)" 
 
       - title: Electronic Production Technology Training
         link: "#"
-        tagline: "RAFI GmbH & Co. KG, Training Center" 2016
+        tagline: "RAFI GmbH & Co. KG, Training Center (2016)" 
+
 
 # projects:
 #     title: Projects
