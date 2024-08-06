@@ -158,15 +158,15 @@ projects:
         tagline: "Vector Informatik (2024)" 
 
       - title: Intercultural Competencies
-        link: "#"
+        # link: "#"
         tagline: "University of Applied Sciences Ludwigsburg (2022)" 
 
       - title: PREEvision Hardware Development
-        link: "#"
+        # link: "#"
         tagline: "Vector Informatik (2021)" 
 
       - title: Electronic Production Technology Training
-        link: "#"
+        # link: "#"
         tagline: "RAFI GmbH & Co. KG, Training Center (2016)" 
 
 
