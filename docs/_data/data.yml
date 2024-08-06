@@ -124,7 +124,7 @@ experiences:
       Dr.-Ing., Professor Walter Ludescher - Hochschule Ravensburg-Weingarten
       (Speed measurement with a light sensor: Frequency generator, debouncing, counter, binary ASCI convertor, multiplexer, UART-transmission, Test-bench) (Xilinx FPGA-programming) 
     technologies: |
-      VHDL
+      VHDL, UART
       
        
 
