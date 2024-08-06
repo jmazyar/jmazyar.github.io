@@ -52,12 +52,17 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Embedded Programming, Programming (Python, C, C#), Testing, Simulation and Automation, 
+      Embedded Programming, Programming (Desktop, Web), Testing, Simulation and Automation, 
       Web/FTP/Active Directory Server under Windows und Linux, ROS, Web Development, 
       Computer Vision, Image Sensors, Image Processing
 
 # Education
 education:
+  - degree: M.S. Robotics and Automation
+    time: 2024-
+    university: University West
+    details: Sweden-Trollhättan
+    
   - degree: B.Eng. Electrical Engineering and IT
     time: 2016-2020
     university: Ravensburg-Weingarten University of Applied Sciences
@@ -84,7 +89,7 @@ experiences:
     time: 2020-Present
     company: Star Electronics - Göppingen
     details: |
-      FlexConfig Restbus Simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools Development (C#, Python, AUTOSAR DB, Embedded C) - Test automation Jenkins and CANoe - PREEvision Hardware Development (Java)
+      FlexConfig Restbus Simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools Development (C#, Python, AUTOSAR DB, Embedded C) - Test automation Jenkins and CANoe - PREEvision Hardware and Functional Development (Java)
     technologies: | 
       C, C#, Java, Vector CANoe, Python, Jenkins, PREEvision
   
@@ -217,7 +222,7 @@ skills:
 skills_side:
   - category: Programming
     skill: 
-      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, HTML, CSS, JavaScript, PHP, mySql, ASP
+      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, HTML, CSS, JavaScript, PHP, mySql
   - category: Technical Software
     skill:
       - Vector CANoe, Vector PREEvision, ETAS INCA, Autodesk(CADSoft) Eagle, MATLAB/Simulink, PSPICE, ModelSim, ISE Design Suite (VHDL), IBM Doors, Beckhoff TwinCAT (PLC)
