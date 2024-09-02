@@ -57,12 +57,7 @@ career-profile:
       Computer Vision, Image Sensors, Image Processing
 
 # Education
-education:
-  - degree: M.S. Robotics and Automation
-    time: 2024-Present
-    university: University West
-    details: Sweden-Trollhättan
-    
+education:    
   - degree: B.Eng. Electrical Engineering and IT
     time: 2016-2020
     university: Ravensburg-Weingarten University of Applied Sciences
