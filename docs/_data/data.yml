@@ -84,7 +84,7 @@ experiences:
     time: 2020-Present
     company: Star Electronics - Göppingen
     details: |
-      FlexConfig Restbus Simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools Development (C#, Python, AUTOSAR DB, Embedded C) - Test automation Jenkins and CANoe - PREEvision Hardware and Functional Development (Java)
+      Bus routing test and simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools development (C#, Python, AUTOSAR DB, Embedded C) - Test automation Jenkins and CANoe - PREEvision Hardware and Functional Development (Java)
     technologies: | 
       C, C#, Java, Vector CANoe, Python, Jenkins, PREEvision
   
@@ -92,7 +92,7 @@ experiences:
     time: 2019
     company: ZF - Friedrichshafen
     details: |
-      (Research and development ZF - Sensor Technology and Perception Systems XAAO3): Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) 
+      (Research and development ZF - Sensor Technology and Perception Systems XAAO3): Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) - (C++, Python Qt)
     technologies: | 
       Python, C++, SerDes, ROS, OpenCV, LVDS, GMSL2
 
@@ -100,7 +100,7 @@ experiences:
     time: 2019
     company: ZF - Friedrichshafen
     details: |
-      (Sensor Technology and Perception Systems XAAO): Software development Python & VBA - GUI design (Tk, QT) - SerDes and I2C, Bayer, YUV (CFA) - YAML, JSON - CRC 
+      (Sensor Technology and Perception Systems XAAO): Software development Python & VBA - GUI design (Tk, Qt) - SerDes and I2C, Bayer, YUV (CFA) - YAML, JSON - CRC 
     technologies: | 
       Python, VBA, I2C, GUI, CFA, YAML, JSON, CRC
   
@@ -235,13 +235,13 @@ skills:
 skills_side:
   - category: Programming
     skill: 
-      - Python (GUI TKinter, QT), Java (Swing UI), C (QT, Gtk), C#, VBA, CAPL, GW BASIC, HTML, CSS, JavaScript, PHP, mySql
+      - Python (GUI TKinter, Qt), Java (Swing UI), C (Qt, Gtk), C#, VBA, CAPL, GW BASIC, HTML, CSS, JavaScript, PHP, mySql
   - category: Technical Software
     skill:
       - Vector CANoe, Vector PREEvision, ETAS INCA, Autodesk(CADSoft) Eagle, MATLAB/Simulink, PSPICE, ModelSim, ISE Design Suite (VHDL), IBM Doors, Beckhoff TwinCAT (PLC)
   - category: Other Software
     skill:
-      - MS Visual Studio, Atmel Studio, Spyder, Eclipse, IntelliJ IDEA, QT, µVision (Embedded C, Assembler), SPSS, MS Office,  Adobe Dreamweaver, CMS (Joomla, WordPress, Typo3, Drupal), Adobe Photoshop, Adobe FreeHand, Sony Sound Forge, Adobe Premier, Corel Video Studio, Docker
+      - MS Visual Studio, Atmel Studio, Spyder, Eclipse, IntelliJ IDEA, Qt, µVision (Embedded C, Assembler), SPSS, MS Office,  Adobe Dreamweaver, CMS (Joomla, WordPress, Typo3, Drupal), Adobe Photoshop, Adobe FreeHand, Sony Sound Forge, Adobe Premier, Corel Video Studio, Docker
   - category: Driving License
     skill:
       - Class B     
