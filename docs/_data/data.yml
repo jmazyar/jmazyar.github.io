@@ -108,7 +108,7 @@ experiences:
     time: 2018
     company: Robert Bosch - Stuttgart
     details: |
-      (Software Excellence Engineering BMS/PS): NTC simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
+      (Software Excellence Engineering BMS/PS): Temperature sensor simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
     technologies: | 
       C, C#, I2C, SPI, UART, ADC, Vector CANoe, VISA and IVI
   
