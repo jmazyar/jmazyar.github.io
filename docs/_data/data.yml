@@ -65,7 +65,7 @@ education:
 
   - degree: M.A. Teaching English as a Foreign Language
     time: 2007-2010
-    university: I. Azad University (Tabriz)
+    university: Azad University (Tabriz)
     details: Iran-Tabriz
 
   - degree: B.A. English Language and Literature
@@ -75,7 +75,7 @@ education:
 
   - degree: Diploma Mathematics and Physics
     time: 1999-2003
-    university: Ja’far Sadiq High School
+    university: Jafar Sadiq High School
     details: Iran
 
 # Experience
@@ -92,7 +92,7 @@ experiences:
     time: 2019
     company: ZF - Friedrichshafen
     details: |
-      (Research and development ZF - Sensor Technology and Perception Systems XAAO3): Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) - (C++, Python Qt)
+      Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) - (C++, Python Qt)
     technologies: | 
       Python, C++, SerDes, ROS, OpenCV, LVDS, GMSL2
 
@@ -100,7 +100,7 @@ experiences:
     time: 2019
     company: ZF - Friedrichshafen
     details: |
-      (Sensor Technology and Perception Systems XAAO): Software development Python & VBA - GUI design (Tk, Qt) - SerDes and I2C, Bayer, YUV (CFA) - YAML, JSON - CRC 
+      Software development Python & VBA - GUI design (Tk, Qt) - SerDes and I2C, Bayer, YUV (CFA) - YAML, JSON - CRC 
     technologies: | 
       Python, VBA, I2C, GUI, CFA, YAML, JSON, CRC
   
@@ -108,18 +108,18 @@ experiences:
     time: 2018
     company: Robert Bosch - Stuttgart
     details: |
-      (Software Excellence Engineering BMS/PS): Temperature sensor simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
+      Temperature sensor simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
     technologies: | 
       C, C#, I2C, SPI, UART, ADC, Vector CANoe, VISA and IVI
   
-  - role: VHDL Project
-    time: 2017
-    company:  
-    details: |
-      Dr.-Ing., Professor Walter Ludescher - Hochschule Ravensburg-Weingarten
-      (Speed measurement with a light sensor: Frequency generator, debouncing, counter, binary ASCI convertor, multiplexer, UART-transmission, Test-bench) (Xilinx FPGA-programming) 
-    technologies: |
-      VHDL, UART
+  # - role: VHDL Project
+  #   time: 2017
+  #   company:  
+  #   details: |
+  #     Dr.-Ing., Professor Walter Ludescher - Hochschule Ravensburg-Weingarten
+  #     (Speed measurement with a light sensor: Frequency generator, debouncing, counter, binary ASCI convertor, multiplexer, UART-transmission, Test-bench) (Xilinx FPGA-programming) 
+  #   technologies: |
+  #     VHDL, UART
       
        
 
