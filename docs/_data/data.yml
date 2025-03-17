@@ -84,7 +84,7 @@ experiences:
     time: 2020-Present
     company: Star Electronics - Göppingen
     details: |
-      Bus routing test and simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools development (C#, Python, AUTOSAR DB, Embedded C) - Test automation Jenkins and CANoe - PREEvision Hardware and Functional Architecture Development (Java)
+      Development of embedded software in C - Bus routing test and simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools development (C#, Python, AUTOSAR DB, Embedded C) - Test automation Jenkins and CANoe - PREEvision Hardware and Functional Architecture Development (Java)
     technologies: | 
       C, C#, Java, Vector CANoe, Python, Jenkins, PREEvision
   
