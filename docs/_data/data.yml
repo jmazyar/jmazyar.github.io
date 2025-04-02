@@ -86,7 +86,7 @@ experiences:
     details: |
       Development of embedded software (C) - Bus routing test and simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools development (C#, Python) - Test automation Jenkins and CANoe - PREEvision Hardware and Functional Architecture Development (Java)
     technologies: | 
-      C, C#, Java, Vector CANoe, Python, Jenkins, PREEvision
+      C, C#, Java, Python, JavaScript, Vector CANoe,Jenkins, PREEvision
   
   - role: Bachelor Thesis
     time: 2019
