@@ -52,9 +52,8 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Embedded Programming, Programming (Desktop, Web), Testing, Simulation and Automation, 
-      Web/FTP/Active Directory Server under Windows und Linux, ROS, Web Development, 
-      Computer Vision, Image Sensors, Image Processing
+      Embedded Programming, Programming (Desktop, Web), Test Automation, Hardware Integration, Simulation and Automation, 
+      Windows Server, Netwroking, Linux, Computer Vision, Image Sensors, Image Processing
 
 # Education
 education:    
@@ -84,33 +83,33 @@ experiences:
     time: 2020-Present
     company: Star Electronics - Göppingen
     details: |
-      Development of embedded software (C) - Bus routing test and simulation (CAN, FlexRay, Ethernet, SOME/IP) - Tools development (C#, Python) - Test automation Jenkins and CANoe - PREEvision Hardware and Functional Architecture Development (Java)
+      Software development - Test and build automation - Implementing real time bus communication - Hardware integration - Debugging and troubleshooting - Customer support - Data analysis - Database development - Hardware modeling and simulation - Web development
     technologies: | 
-      C, C#, Java, Python, JavaScript, Vector CANoe,Jenkins, PREEvision
+      Embedded C, C#, Java, Python, JavaScript, Linux, UART, CAN, Ethernet, Jenkins, Vector CANoe, PREEvision
   
   - role: Bachelor Thesis
     time: 2019
     company: ZF - Friedrichshafen
     details: |
-      Development and optimization of a camera connection with LVDS interface (SerDes, ROS, OpenCV, Image processing) - (C++, Python Qt)
+      Hardware integration - Hardware integration - Optical sensors - Image processing
     technologies: | 
-      Python, C++, SerDes, ROS, OpenCV, LVDS, GMSL2
+      Python, C++, SerDes, ROS (Linux), Qt, OpenCV, SerDes, I2C, LVDS, GMSL2
 
   - role: Working Student
     time: 2019
     company: ZF - Friedrichshafen
     details: |
-      Software development Python & VBA - GUI design (Tk, Qt) - SerDes and I2C, Bayer, YUV (CFA) - YAML, JSON - CRC 
+      Software development - GUI design - Implementing communication - Data encryption - Firmware configuration
     technologies: | 
-      Python, VBA, I2C, GUI, CFA, YAML, JSON, CRC
+      Python, VBA, SerDes, I2C, GUI, Qt, Tk, Debayering, CFA, YAML, JSON, CRC
   
   - role: Internship
     time: 2018
     company: Robert Bosch - Stuttgart
     details: |
-      Temperature sensor simulation for BMS HiL (Circuit design, PCB design and programming) (CADSoft Eagle, C++) - Microcontroller (EEPROM, I2C, SPI, ADC, CAN Bus, UART) - CANoe configuration for running the BMS tests - HiL test-bench remote connection (Visual C#) - Measurement and data logger/switch configuration in CANoe (VISA and IVI) 
+      HiL simulation and testing - Test configuration - Software development - Microcontroller programming - Circuit design - PCB design - Measurement and data logger integration
     technologies: | 
-      C, C#, I2C, SPI, UART, ADC, Vector CANoe, VISA and IVI
+      Embedded C, C#, I2C, SPI, UART, USB, CAN, JTAG, PCB, ADC, Vector CANoe, VISA and IVI
   
   # - role: VHDL Project
   #   time: 2017
