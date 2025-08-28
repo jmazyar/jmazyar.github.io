@@ -83,7 +83,7 @@ experiences:
     time: 2020-Present
     company: Star Electronics - Göppingen
     details: |
-      Software development - Test and build automation - Implementing real time bus communication - Hardware integration - Debugging and troubleshooting - Customer support - Data analysis - Database development - Hardware modeling and simulation - Web development
+      Software development - Test and build automation - Implementing real time communication - Hardware integration - Debugging and troubleshooting - Customer support - Data analysis - Database development - Hardware modeling and simulation - Web development
     technologies: | 
       Embedded C, C#, Java, Python, JavaScript, Linux, UART, CAN, Ethernet, Jenkins, Vector CANoe, PREEvision
   
